@@ -1,0 +1,1 @@
+Kernel module was built directly on HPS of Cyclone V running DE1-SoC_UP_Linux_ROS.img, where compiler and make tool are available

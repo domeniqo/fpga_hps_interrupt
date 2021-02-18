@@ -1,0 +1,1 @@
+Userspace program can be built either on computer with cross compiler as I did or directly on HPS with running linux distribution. See [../kernel](../kernel) for more info.

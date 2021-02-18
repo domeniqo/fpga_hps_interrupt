@@ -1,0 +1,2 @@
+- [rtl/interrupt_sender.v](rtl/interrupt_sender.v) was used in [./my_system.qsys](./my_system.qsys) for building component [./interrupt_sender_hw.tcl](./interrupt_sender_hw.tcl)
+- other rtl/*.v files are used directly in top level entity [./DE1_SOC_golden_top.v](./DE1_SOC_golden_top.v)
